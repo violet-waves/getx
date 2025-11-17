@@ -1,4 +1,4 @@
-import 'package:getx/get.dart';
+import 'package:get_x/get.dart';
 
 import '../../../shared/constants/endpoints.dart';
 import '../domain/entity/country_model.dart';

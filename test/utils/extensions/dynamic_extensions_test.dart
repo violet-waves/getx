@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:getx/utils.dart';
+import 'package:get_x/utils.dart';
 
 void main() {
   test('String test', () {

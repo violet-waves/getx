@@ -4,7 +4,7 @@ library;
 import 'dart:io';
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:getx/get.dart';
+import 'package:get_x/get.dart';
 
 void main() {
   test('Platform test', () {

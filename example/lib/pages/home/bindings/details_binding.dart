@@ -1,4 +1,4 @@
-import 'package:getx/get.dart';
+import 'package:get_x/get.dart';
 
 import '../presentation/controllers/details_controller.dart';
 

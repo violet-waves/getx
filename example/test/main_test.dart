@@ -2,8 +2,8 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:getx/get.dart';
-import 'package:getx/get_navigation/src/routes/test_kit.dart';
+import 'package:get_x/get.dart';
+import 'package:get_x/get_navigation/src/routes/test_kit.dart';
 import 'package:get_demo/pages/home/domain/adapters/repository_adapter.dart';
 import 'package:get_demo/pages/home/domain/entity/country_model.dart';
 import 'package:get_demo/pages/home/presentation/controllers/details_controller.dart';

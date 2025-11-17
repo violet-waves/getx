@@ -130,7 +130,7 @@ dependencies:
 使用するときはこのようにインポートしてください:
 
 ```dart
-import 'package:getx/get.dart';
+import 'package:get_x/get.dart';
 ```
 
 # GetXによるカウンターアプリ
@@ -341,7 +341,7 @@ Text(controller.textFromApi);
 翻訳を追加するには、クラスを作成して `Translations` を継承します。
 
 ```dart
-import 'package:getx/get.dart';
+import 'package:get_x/get.dart';
 
 class Messages extends Translations {
   @override
@@ -374,7 +374,7 @@ Text('singularKey'.trPlural('pluralKey', products.length, Args));
 #### パラメーターに対応
 
 ```dart
-import 'package:getx/get.dart';
+import 'package:get_x/get.dart';
 
 
 Map<String, Map<String, String>> get keys => {

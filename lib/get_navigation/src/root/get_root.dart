@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:getx/get_navigation/src/routes/test_kit.dart';
+import 'package:get_x/get_navigation/src/routes/test_kit.dart';
 
 import '../../../get.dart';
 import '../router_report.dart';

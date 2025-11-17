@@ -72,7 +72,7 @@ dependencies:
 Importe Get en los archivos en los que se utilizará:
 
 ```dart
-import 'package:getx/get.dart';
+import 'package:get_x/get.dart';
 ```
 
 # Proyecto Contador con GetX

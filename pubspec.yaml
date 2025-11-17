@@ -1,4 +1,4 @@
-name: getx
+name: get_x
 description: Open screens/snackbars/dialogs without context, manage states and inject dependencies easily with GetX.
 version: 5.0.0
 homepage: https://github.com/violet-waves/getx

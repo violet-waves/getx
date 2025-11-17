@@ -286,7 +286,7 @@ However, some examples like internationalization, Snackbars without context, val
 ```dart
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:getx/get.dart';
+import 'package:get_x/get.dart';
 
 void main() {
   runApp(GetMaterialApp(

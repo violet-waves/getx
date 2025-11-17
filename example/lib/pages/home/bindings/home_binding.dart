@@ -1,4 +1,4 @@
-import 'package:getx/get.dart';
+import 'package:get_x/get.dart';
 
 import '../data/home_api_provider.dart';
 import '../data/home_repository.dart';
