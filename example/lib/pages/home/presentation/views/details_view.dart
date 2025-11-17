@@ -1,7 +1,7 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
+import 'package:getx/get.dart';
 import 'package:get_demo/pages/home/domain/entity/country_model.dart';
 
 import '../controllers/details_controller.dart';

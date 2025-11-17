@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
+import 'package:getx/get.dart';
 
 import '../controllers/product_details_controller.dart';
 

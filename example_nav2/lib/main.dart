@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
+import 'package:getx/get.dart';
 
 import './services/auth_service.dart';
 import 'app/routes/app_pages.dart';

@@ -1,9 +1,9 @@
 ![](https://raw.githubusercontent.com/jonataslaw/getx-community/master/get.png)
 
 [![pub package](https://img.shields.io/pub/v/get.svg?label=get&color=blue)](https://pub.dev/packages/get)
-[![popularity](https://badges.bar/get/popularity)](https://pub.dev/packages/sentry/score)
+<!-- [![popularity](https://badges.bar/get/popularity)](https://pub.dev/packages/sentry/score)
 [![likes](https://badges.bar/get/likes)](https://pub.dev/packages/get/score)
-[![pub points](https://badges.bar/get/pub%20points)](https://pub.dev/packages/get/score)
+[![pub points](https://badges.bar/get/pub%20points)](https://pub.dev/packages/get/score) -->
 ![building](https://github.com/jonataslaw/get/workflows/build/badge.svg)
 [![style: effective dart](https://img.shields.io/badge/style-effective_dart-40c4ff.svg)](https://pub.dev/packages/effective_dart)
 [![Discord Shield](https://img.shields.io/discord/722900883784073290.svg?logo=discord)](https://discord.com/invite/9Hpt99N)
@@ -124,13 +124,13 @@ Getパッケージを pubspec.yaml に追加します:
 
 ```yaml
 dependencies:
-  get:
+  getx:
 ```
 
 使用するときはこのようにインポートしてください:
 
 ```dart
-import 'package:get/get.dart';
+import 'package:getx/get.dart';
 ```
 
 # GetXによるカウンターアプリ
@@ -341,7 +341,7 @@ Text(controller.textFromApi);
 翻訳を追加するには、クラスを作成して `Translations` を継承します。
 
 ```dart
-import 'package:get/get.dart';
+import 'package:getx/get.dart';
 
 class Messages extends Translations {
   @override
@@ -374,7 +374,7 @@ Text('singularKey'.trPlural('pluralKey', products.length, Args));
 #### パラメーターに対応
 
 ```dart
-import 'package:get/get.dart';
+import 'package:getx/get.dart';
 
 
 Map<String, Map<String, String>> get keys => {

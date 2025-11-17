@@ -1,7 +1,7 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
+import 'package:getx/get.dart';
 
 import '../controllers/home_controller.dart';
 

@@ -21,7 +21,7 @@
 
 ```yaml
 dependencies:
-  get:
+  getx:
 ```
 
 Если вы собираетесь использовать маршруты/snackbars/dialogs/bottomSheets без контекста или использовать высокоуровневые API Get, вам нужно просто добавить «Get» перед вашим MaterialApp, превратив его в GetMaterialApp!

@@ -21,7 +21,7 @@ Ajoutez ceci à votre fichier pubspec.yaml:
 
 ```yaml
 dependencies:
-  get:
+  getx:
 ```
 
 Si vous allez utiliser des routes/snackbars/dialogs/bottomsheets sans contexte, ou utiliser les API Get de haut niveau, vous devez simplement ajouter "Get" avant votre MaterialApp, en le transformant en GetMaterialApp et en profiter!

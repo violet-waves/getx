@@ -21,7 +21,7 @@
 
 ```yaml
 dependencies:
-  get:
+  getx:
 ```
 
 Route / SnackBar / Dialog / BottomSheet をcontextなしで、あるいは高レベルのGet APIを使用するには MaterialApp の前に「Get」を追加してください。それだけで GetMaterialApp の機能が使用できます。

@@ -21,7 +21,7 @@
 
 ```yaml
 dependencies:
-  get:
+  getx:
 ```
 
 如果你要在没有context的情况下使用路由/SnackBars/Dialogs/BottomSheets，或者使用高级的Get API，你只需要在你的MaterialApp前面加上 "Get"，就可以把它变成GetMaterialApp，享受吧!

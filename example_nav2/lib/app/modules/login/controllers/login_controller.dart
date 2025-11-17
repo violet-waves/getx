@@ -1,3 +1,3 @@
-import 'package:get/get.dart';
+import 'package:getx/get.dart';
 
 class LoginController extends GetxController {}

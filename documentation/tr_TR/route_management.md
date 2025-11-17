@@ -21,7 +21,7 @@ Bunu pubspec.yaml dosyanıza ekleyin:
 
 ```yaml
 dependencies:
-  get:
+  getx:
 ```
 
 Context olmadan routes/snackbars/dialogs/bottomsheets kullanacaksanız veya üst düzey Get API'lerini kullanacaksanız, `MaterialApp`'ınızdan önce `Get` eklemeniz, `GetMaterialApp`'a dönüştürmeniz ve keyfini çıkarmanız yeterlidir!
