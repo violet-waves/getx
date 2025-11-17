@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:getx/utils.dart';
+import 'package:get_x/utils.dart';
 
 class Foo extends StatelessWidget {
   const Foo({super.key});

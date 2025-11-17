@@ -72,7 +72,7 @@ dependencies:
 Zaimportuj Get do plików w których chcesz go użyć:
 
 ```dart
-import 'package:getx/get.dart';
+import 'package:get_x/get.dart';
 ```
 
 # Counter App z GetX

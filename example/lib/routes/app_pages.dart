@@ -1,4 +1,4 @@
-import 'package:getx/get.dart';
+import 'package:get_x/get.dart';
 import 'package:get_demo/pages/home/bindings/details_binding.dart';
 
 import '../pages/home/bindings/home_binding.dart';
